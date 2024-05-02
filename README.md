@@ -2,7 +2,7 @@
 
 In today's data-driven landscape, efficient data manipulation is crucial, and Alteryx offers powerful tools to achieve just that. In this workflow, I explore unions, appends, joins, parsing, and performance optimization to streamline the workflow and elevate the analytics game. 
 
-The foloowing business questions was answered:
+The following business questions were answered:
 * Determine the average discount percentage per order for the company's flagship product.
 * To find the complete list of all Trek Slash 8 orders with the product details appended.
 * The total number of unique Trek Slash 8's the company has produced, regardless of their sales or current inventory status.
